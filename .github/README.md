@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d7a603361cca4fa6cbfa4.jpg">
+  <img src="https://te.legra.ph/file/797be7b5b198fb29e7d1f.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Orden ✘ ᴍᴜsɪᴄ](https://telegram.me/Orden_Owner)**_
@@ -20,9 +20,3 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Orden ✘ ᴍᴜsɪ
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Nicat4944/Telegram-music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-<details>
-<summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3></summary>
-━━━━━━━━━━━━━━━━━━━━
