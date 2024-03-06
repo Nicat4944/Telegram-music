@@ -178,7 +178,7 @@ async def play(_, message: Message):
         file_path = audio_dl(url)
     else:
         if len(message.command) < 2:
-            return await fallen.edit_text("» ᴡʜᴀᴛ ᴅᴏ ʏᴏᴜ ᴡᴀɴɴᴀ ᴘʟᴀʏ ʙᴀʙʏ ?")
+            return await fallen.edit_text("» Axtarılır ?")
         await fallen.edit_text("Axtarılır🐺")
         query = message.text.split(None, 1)[1]
         try:
