@@ -60,13 +60,13 @@ from FallenMusic.Helpers.thumbnails import gen_qthumb, gen_thumb
 
 
 @app.on_message(
-    filters.command(["play", "vplay", "p"])
+    filters.command(["play", "vplay", "Mahni"])
     & filters.group
     & ~filters.forwarded
     & ~filters.via_bot
 )
 async def play(_, message: Message):
-    fallen = await message.reply_text("» ᴘʀᴏᴄᴇssɪɴɢ, ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...")
+    fallen = await message.reply_text("» Axtarılır🐺...")
     try:
         await message.delete()
     except:
